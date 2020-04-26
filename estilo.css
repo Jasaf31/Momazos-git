@@ -11,14 +11,13 @@ lines 3
 
 // VARIABLES
 // declaracion 
-var gato;
+var Es;
 
 // inicializacion 
-gato = "Esto es un gato";
+Es = "Esto es un objeto";
 
 // utilizacion 
-alert(gato);
-
+alert(Es);
 //===================================================================
 
 // CONSTANTES 
